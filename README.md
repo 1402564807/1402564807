@@ -7,33 +7,28 @@
   
 </div>  
 
-<a href=#>
-  <img src="https://github-readme-stats.vercel.app/api?username=1402564807&show_icons=true&count_private=true&theme=gruvbox" height=180px>
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/1402564807/1402564807">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1402564807&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href=#>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1402564807&theme=gruvbox&hide=html&layout=compact" height=180px>
+<a href="https://github.com/1402564807/1402564807">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1402564807&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-## Tech Stacks
-
-<div align="center">  
-<img height='40' src="https://img.shields.io/badge/java-2541b2?logo=Java&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/JavaScript-fb9300?logo=JavaScript&logoColor=white&style=for-the-badge"> <img height='40' src="https://img.shields.io/badge/Python-deedf0?logo=Python&logoColor=03256c&style=for-the-badge">  
-</div>
-
-<br/>  
-
 
 
 <br/>
 
 
-<div align="center"> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /> 
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
 
 <!--
